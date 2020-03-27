@@ -13,6 +13,8 @@ _The user will be asked 5 multiple choice questions, and the answers they provid
 * _Clone this repository from https://github.com/reidashwill/week-2-project_
 * _navigate to and open index.html in your browser or text editor of choice_
 
+* _Or simply go to https://reidashwill.github.io/week-2-project/
+
 
 ## Known Bugs
 
