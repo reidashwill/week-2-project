@@ -1,0 +1,12 @@
+.jumbotron{
+  text-align: center;
+  background-color: rgb(32, 6, 6);
+  color: white;
+  margin: 5vh;
+}
+body{
+  background-color: slategray;
+}
+.text{
+  text-align: center;
+}
