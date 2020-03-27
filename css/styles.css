@@ -39,3 +39,7 @@ button{
 .hide{
   display: none;
 }
+a {
+color: inherit;
+font-weight: bold;
+}
