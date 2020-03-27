@@ -4,42 +4,51 @@
   color: white;
   margin: 5vh;
 }
+
 body{
   background-color: slategray;
 }
+
+img{
+  max-width: 50vh;
+}
+
 .text{
   text-align: center;
 }
+
 .well{
   background-color: rgb(32, 6, 6);
   color: white;
   padding: 10vh;
 }
+
 button{
   background-color: slategray;
 }
-.languages{
-  text-align: center;
-  display: none;
-}
+
 #ruby{
-  width: 50vh;
-  display: none;
+  max-width: 50vh;
 }
-#python{
-  width: 60vh;
-  display: none;
+
+.python{
+  width: 60vh;  
 }
-#js{
-  width: 80vh;
-  display: none;
+
+.js{
+  width: 100vh;
 }
-#rust{
+
+.rust{
 width: 80vh;
-display: none;
 }
-#swift{
-  width: 150vh;
-  float: left;
+
+.swift{
+  width: 50vh;
+}
+#languages{
+  margin-left: 20vh;
+}
+.hide{
   display: none;
 }
