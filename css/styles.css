@@ -13,7 +13,28 @@ body{
 .well{
   background-color: rgb(32, 6, 6);
   color: white;
+  padding: 10vh;
 }
 button{
   background-color: slategray;
+}
+#ruby{
+  width: 50vh;
+}
+#python{
+  width: 60vh;
+}
+#js{
+  width: 80vh;
+}
+#rust{
+width: 80vh;
+}
+#swift{
+  width: 150vh;
+  float: left;
+}
+.languages{
+  text-align: center;
+  display: none;
 }
