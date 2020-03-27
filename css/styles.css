@@ -10,3 +10,8 @@ body{
 .text{
   text-align: center;
 }
+.well{
+  max-width: 35%;
+  background-color: rgb(32, 6, 6);
+  color: white;
+}
