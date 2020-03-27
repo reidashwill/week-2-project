@@ -24,17 +24,22 @@ button{
 }
 #ruby{
   width: 50vh;
+  display: none;
 }
 #python{
   width: 60vh;
+  display: none;
 }
 #js{
   width: 80vh;
+  display: none;
 }
 #rust{
 width: 80vh;
+display: none;
 }
 #swift{
   width: 150vh;
   float: left;
+  display: none;
 }
