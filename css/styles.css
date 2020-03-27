@@ -10,7 +10,7 @@ body{
 }
 
 img{
-  max-width: 50vh;
+  max-width: 30vh;
 }
 
 .text{
@@ -20,34 +20,23 @@ img{
 .well{
   background-color: rgb(32, 6, 6);
   color: white;
-  padding: 10vh;
+  padding: 5vh;
 }
 
 button{
   background-color: slategray;
 }
 
-#ruby{
-  max-width: 50vh;
-}
-
-.python{
-  width: 60vh;  
-}
-
-.js{
-  width: 100vh;
-}
-
-.rust{
-width: 80vh;
-}
-
-.swift{
-  width: 50vh;
-}
 #languages{
+  margin-top: 10vh;
   margin-left: 20vh;
+}
+
+#intro{
+  text-align: left;
+  max-width: 90%;
+  float: left;
+;
 }
 .hide{
   display: none;
