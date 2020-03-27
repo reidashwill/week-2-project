@@ -61,7 +61,7 @@ $(document).ready(function() {
       $("#swift").removeClass("hide");
     }else if(question1 === "between" && question3 ===  "desert"){
       $(".flag").addClass("hide");
-      $("#js").removeClass("hide");
+      $("#js").removeClass("hide");    
     }else{
       $(".flag").addClass("hide");
       $("#js").removeClass("hide");
