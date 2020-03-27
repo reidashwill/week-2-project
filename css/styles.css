@@ -2,7 +2,7 @@
   text-align: center;
   background-color: rgb(32, 6, 6);
   color: white;
-  margin: 5vh;
+  margin-top: 5vh;
 }
 
 body{
@@ -12,6 +12,11 @@ body{
 img{
   max-width: 30vh;
 }
+
+button:hover {
+  cursor: pointer;
+}
+
 
 .text{
   text-align: center;
@@ -27,16 +32,9 @@ button{
   background-color: slategray;
 }
 
-#languages{
-  margin-top: 10vh;
-  margin-left: 20vh;
-}
-
 #intro{
   text-align: left;
   max-width: 90%;
-  float: left;
-;
 }
 .hide{
   display: none;
